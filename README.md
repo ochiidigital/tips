@@ -37,7 +37,7 @@ A api do cliente recebe, via RabbitMQ, os dados dos produtos e lojas cadastrados
   
   A modelagem do banco de dados foi construida com base que um cliente pode possuir mais de um endereço (OneToMany) e mais de um pedido (OneToMany).
   
-<img src="../DiagramaUMl.png"/>
+<img src="docs/DiagramaUMl.png"/>
 
 
 
